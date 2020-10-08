@@ -1,6 +1,6 @@
 # world_clock
 
-A new Flutter application.
+A Flutter application. uses API's to get Current time for diffrenet time zone. 
 
 ## Getting Started
 
