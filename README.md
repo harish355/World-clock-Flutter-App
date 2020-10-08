@@ -1,4 +1,4 @@
-# world_clock
+# World_Clock
 
 A Flutter application. uses API's to get Current time for diffrenet time zone. 
 
